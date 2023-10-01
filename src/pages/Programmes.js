@@ -8,12 +8,14 @@ export const Programmes = () => {
       url: "/beginner-rings",
       imageUrl:
         "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-rings-and-flow/programmes/beginner-rings-01.png",
+      comingSoon: false,
     },
     {
       programTitle: "EO - Mobility",
-      url: "/eo-mobility",
+      url: "",
       imageUrl:
         "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-rings-and-flow/programmes/eo-mobility.png",
+      comingSoon: true,
     },
     // {
     //   programTitle: "Beginner Rings",
@@ -37,6 +39,7 @@ export const Programmes = () => {
             cover={<img alt="example" src={data.imageUrl} />}
             title={data.programTitle}
             hoverable
+            extra={[data.comingSoon && "Coming Soon"]}
           ></Card>
         </Link>
       </Col>
