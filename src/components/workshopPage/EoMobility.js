@@ -20,7 +20,7 @@ export const EoMobility = () => {
               6a-6b.
             </p>
           </div>
-          <Card title="Beginner Workshop">
+          <Card title="EO Workshop">
             <WorkOutTable workShopData={eoMobilityData} />
           </Card>
         </Col>

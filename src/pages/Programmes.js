@@ -7,13 +7,13 @@ export const Programmes = () => {
       programTitle: "Beginner Rings",
       url: "/beginner-rings",
       imageUrl:
-        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/16c31c96-a82f-44b8-aa6b-c16cc123db74.__CR104,227,1138,1138_PT0_SX300_V1___.jpg",
+        "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-rings-and-flow/programmes/beginner-rings-01.png",
     },
     {
       programTitle: "EO - Mobility",
       url: "/eo-mobility",
       imageUrl:
-        "https://m.media-amazon.com/images/S/aplus-media-library-service-media/613dd9cd-68f6-4a3a-803c-4b35e49eef3c.__CR168,0,664,664_PT0_SX300_V1___.jpg",
+        "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-rings-and-flow/programmes/eo-mobility.png",
     },
     // {
     //   programTitle: "Beginner Rings",
