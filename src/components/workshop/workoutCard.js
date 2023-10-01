@@ -1,7 +1,6 @@
 import { Card, Carousel, Col, Image, Row, Tag } from "antd";
-import { workShopData } from "./workShopData";
 
-export const WorkOutCard = () => {
+export const WorkOutCard = ({ workShopData }) => {
   const listWorkOuts = workShopData.map((data) => {
     const listGifs = data.gifUrl.map((data) => {
       return (

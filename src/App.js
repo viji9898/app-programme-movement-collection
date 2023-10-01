@@ -8,9 +8,10 @@ import { NavBar } from "./components/navigation/navBar";
 // import ScrollToTop from "./utils/ScrollToTop";
 
 import { Assets } from "./pages/Assets";
-import { WorkShop } from "./pages/Workshop";
+import { Programmes } from "./pages/Programmes";
+import { BeginnerRings } from "./components/workshopPage/BeginnerRings";
+import { EoMobility } from "./components/workshopPage/EoMobility";
 // import { Deactivated } from "./pages/deactiviated";
-// import { ProgramList } from "./components/landingPage/programList";
 
 function App() {
   return (
@@ -18,8 +19,10 @@ function App() {
       <NavBar />
       {/* <ScrollToTop /> */}
       <Routes>
-        {/* <Route exact path="/" element={<ProgramList />} /> */}
-        <Route exact path="/" element={<WorkShop />} />
+        <Route exact path="/" element={<Programmes />} />
+        <Route exact path="/beginner-rings" element={<BeginnerRings />} />
+        <Route exact path="/eo-mobility" element={<EoMobility />} />
+        {/* <Route exact path="/" element={<WorkShop />} /> */}
         {/* <Route exact path="/" element={<Deactivated />} /> */}
         <Route exact path="/assets" element={<Assets />} />
         <Route exact path="/*" element={<NotFound />} />

@@ -11,7 +11,7 @@ export const NavBar = () => {
     <Navbar sticky="top">
       <Container>
         <Link to="/" style={{ textDecoration: "none" }}>
-          <Navbar.Brand>{"KS"}</Navbar.Brand>
+          <Navbar.Brand>{"Programmes"}</Navbar.Brand>
         </Link>
         <Nav className="justify-content-end">
           <MainMenu />

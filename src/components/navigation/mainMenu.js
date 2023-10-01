@@ -21,14 +21,14 @@ export const MainMenu = () => {
     {
       label: (
         <a
-          href="https://katherinesamuelson.com"
+          href="https://movementcollection.co.uk/"
           target="_blank"
           rel="noreferrer"
           className="mainFont"
           style={{ textDecoration: "none" }}
           onClick={onClose}
         >
-          {"home"}
+          {"MC"}
         </a>
       ),
       key: "link1",
@@ -49,17 +49,17 @@ export const MainMenu = () => {
           {`Mobility`} - <small>Coming Soon!</small>
         </Link>
       ),
-      key: "mobility",
+      key: "eo-mobility",
     },
-    {
-      label: (
-        <Link onClick={onClose} to={"/"} style={{ textDecoration: "none" }}>
-          {`Movement`} - <small>Coming Soon!</small>
-        </Link>
-      ),
+    // {
+    //   label: (
+    //     <Link onClick={onClose} to={"/"} style={{ textDecoration: "none" }}>
+    //       {`Movement`} - <small>Coming Soon!</small>
+    //     </Link>
+    //   ),
 
-      key: "movement",
-    },
+    //   key: "movement",
+    // },
   ];
 
   return (
@@ -87,7 +87,7 @@ export const MainMenu = () => {
           <Drawer
             zIndex={1030}
             placement={"right"}
-            title="Programs"
+            title="Programmes"
             // closable={false}
             width={300}
             onClose={onClose}

@@ -1,4 +1,4 @@
-export const workShopData = [
+export const beginnerRingsData = [
   {
     title: "Scapular shrugs (push)",
     color: "volcano",

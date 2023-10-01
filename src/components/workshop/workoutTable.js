@@ -1,6 +1,5 @@
 import React from "react";
 import { Table, Tag } from "antd";
-import { workShopData } from "./workShopData";
 const columns = [
   {
     title: "id",
@@ -64,7 +63,7 @@ const columns = [
   //   },
 ];
 
-export const WorkOutTable = () => {
+export const WorkOutTable = ({ workShopData }) => {
   return (
     <Table
       className="mainFont"

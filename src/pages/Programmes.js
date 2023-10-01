@@ -1,7 +1,7 @@
 import { Card, Col, Row } from "antd";
 import { Link } from "react-router-dom";
 
-export const ProgramList = () => {
+export const Programmes = () => {
   const programData = [
     {
       programTitle: "Beginner Rings",
@@ -10,8 +10,8 @@ export const ProgramList = () => {
         "https://m.media-amazon.com/images/S/aplus-media-library-service-media/16c31c96-a82f-44b8-aa6b-c16cc123db74.__CR104,227,1138,1138_PT0_SX300_V1___.jpg",
     },
     {
-      programTitle: "Mobility",
-      url: "/beginner-rings",
+      programTitle: "EO - Mobility",
+      url: "/eo-mobility",
       imageUrl:
         "https://m.media-amazon.com/images/S/aplus-media-library-service-media/613dd9cd-68f6-4a3a-803c-4b35e49eef3c.__CR168,0,664,664_PT0_SX300_V1___.jpg",
     },
@@ -45,9 +45,6 @@ export const ProgramList = () => {
   return (
     <div className="main" style={{ padding: "5px" }}>
       <Row gutter={[18, 18]} style={{ marginTop: "10px" }}>
-        <Col span={24}>
-          <h1>Programs</h1>
-        </Col>
         {listProgramData}
       </Row>
     </div>
