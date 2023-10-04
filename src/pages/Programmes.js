@@ -12,10 +12,10 @@ export const Programmes = () => {
     },
     {
       programTitle: "EO - Mobility",
-      url: "",
+      url: "/eo-mobility",
       imageUrl:
         "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-rings-and-flow/programmes/eo-mobility.png",
-      comingSoon: true,
+      comingSoon: false,
     },
     // {
     //   programTitle: "Beginner Rings",
