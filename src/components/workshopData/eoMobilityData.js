@@ -8,7 +8,7 @@ export const eoMobilityData = [
     lowRes: true,
     gifUrl: [
       {
-        url: "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-programs/movemenet-collection/eo-workshop/6010.GIF",
+        url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/003fce65-ffb5-4a1f-9cdc-4ba0046ec37a.gif?ClientID=vimeo-core-prod&Date=1696390932&Signature=8d29fbaf138aeb8ed614a26ddd434daddc75d90d",
       },
     ],
     gifUrlHighRes: [
@@ -33,7 +33,7 @@ export const eoMobilityData = [
     reps: "30 secs",
     gifUrl: [
       {
-        url: "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-programs/movemenet-collection/eo-workshop/6009-low-res.GIF",
+        url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/d600ae60-10a1-4478-89ad-272af4262f03.gif?ClientID=vimeo-core-prod&Date=1696390992&Signature=1f5103569c7c200d1cd2e5dd358d22f96758bdc0",
       },
     ],
     gifUrlHighRes: [
@@ -56,10 +56,10 @@ export const eoMobilityData = [
     reps: "10",
     gifUrl: [
       {
-        url: "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-programs/movemenet-collection/eo-workshop/6008-front-low-res.GIF",
+        url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e4b45ae8-2334-4345-89f9-bdeb9d5154a1.gif?ClientID=vimeo-core-prod&Date=1696391212&Signature=0f3c70b9a62979c5832a3b21037cda89efb4d436",
       },
       {
-        url: "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-programs/movemenet-collection/eo-workshop/6008-side-low-res..GIF",
+        url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/31397286-f53f-473e-bb39-052da00731a6.gif?ClientID=vimeo-core-prod&Date=1696391238&Signature=f9ae34a9070a770981993b073e98fd32182bebf9",
       },
     ],
     gifUrlHighRes: [
