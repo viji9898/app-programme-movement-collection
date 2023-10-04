@@ -5,9 +5,20 @@ export const eoMobilityData = [
     grouping: "1a",
     sets: "3",
     reps: "10",
+    lowRes: true,
     gifUrl: [
       {
+        url: "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-programs/movemenet-collection/eo-workshop/6010.GIF",
+      },
+    ],
+    gifUrlHighRes: [
+      {
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/003fce65-ffb5-4a1f-9cdc-4ba0046ec37a.gif?ClientID=vimeo-core-prod&Date=1696390932&Signature=8d29fbaf138aeb8ed614a26ddd434daddc75d90d",
+      },
+    ],
+    gifUrlLowRes: [
+      {
+        url: "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-programs/movemenet-collection/eo-workshop/6010.GIF",
       },
     ],
     videoUrl: "https://vimeo.com/870912165/d11e78f707?share=copy",
