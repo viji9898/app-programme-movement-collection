@@ -20,6 +20,19 @@ export const EoMobility = () => {
               6a-6b.
             </p>
           </div>
+          <div>
+            <iframe
+              src={
+                "https://player.vimeo.com/video/857861963?h=9b6bbf4f86&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+              }
+              title="pitch video desktop"
+              width="100%"
+              height="360"
+              frameborder="0"
+              allow="autoplay; fullscreen; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
           <Card title="EO Workshop">
             <WorkOutTable workShopData={eoMobilityData} />
           </Card>

@@ -245,7 +245,7 @@ export const eoMobilityData = [
     videoUrl: "https://vimeo.com/870912585/b019135564?share=copy",
   },
   {
-    title: "Inch Work",
+    title: "Inch Worm",
     color: "cyan",
     grouping: "6b",
     sets: "3",
