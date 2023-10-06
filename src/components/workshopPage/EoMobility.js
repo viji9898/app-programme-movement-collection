@@ -16,7 +16,7 @@ export const EoMobility = () => {
               <br></br>
               <br></br>
               <strong>{" How to use: "}</strong>
-              Follow the routine as laid out, excercise 1a to 1f our part of a
+              Follow the routine as laid out, excercise 1a to 1f are part of a
               cicuirt and should be done one after the other same with 5a-5b and
               6a-6b.
             </p>
