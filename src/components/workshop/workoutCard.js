@@ -25,7 +25,7 @@ export const WorkOutCard = ({ workShopData }) => {
           {/* <Carousel>{listGifs}</Carousel> */}
           <div style={{ padding: "177.78% 0 0 0", position: "relative" }}>
             <iframe
-              src="https://player.vimeo.com/video/871737137?autoplay=1&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479"
+              src="https://player.vimeo.com/video/871737137?autoplay=1&loop=1&autopause=0&amp;badge=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479"
               frameborder="0"
               allow="autoplay; fullscreen; picture-in-picture"
               style={{
