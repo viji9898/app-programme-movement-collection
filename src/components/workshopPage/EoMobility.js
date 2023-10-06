@@ -11,8 +11,9 @@ export const EoMobility = () => {
           <Divider />
           <div className="mainFont" style={{ padding: "0px 10px 0px 10px" }}>
             <p>
-              The EO Wokshop focuses on fundamental to build your strenght and
-              prepares you to take on more challanging progressions. <br></br>
+              The EO Wokshop focuses on fundamental mobility and core exercises
+              to help combat desk damage and to live a healthier lifestyle.{" "}
+              <br></br>
               <br></br>
               <strong>{" How to use: "}</strong>
               Follow the routine as laid out, excercise 1a to 1f our part of a
@@ -20,7 +21,7 @@ export const EoMobility = () => {
               6a-6b.
             </p>
           </div>
-          <div>
+          {/* <div>
             <iframe
               src={
                 "https://player.vimeo.com/video/857861963?h=9b6bbf4f86&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
@@ -32,7 +33,7 @@ export const EoMobility = () => {
               allow="autoplay; fullscreen; picture-in-picture"
               allowfullscreen
             ></iframe>
-          </div>
+          </div> */}
           <Card title="EO Workshop">
             <WorkOutTable workShopData={eoMobilityData} />
           </Card>

@@ -21,6 +21,8 @@ export const eoMobilityData = [
         url: "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-programs/movemenet-collection/eo-workshop/6010.GIF",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871737137?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912165/d11e78f707?share=copy",
     id: "scapular-shrugs-push",
   },
@@ -46,6 +48,9 @@ export const eoMobilityData = [
         url: "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-programs/movemenet-collection/eo-workshop/6010.GIF",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871759750?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
+
     videoUrl: "https://vimeo.com/870912190/14314239ef?share=copy",
   },
   {
@@ -78,6 +83,8 @@ export const eoMobilityData = [
         url: "https://customer-apps-techhq.s3.eu-west-2.amazonaws.com/app-programs/movemenet-collection/eo-workshop/6008-side-low-res..GIF",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871761077?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912218/1fd1375f06?share=copy",
   },
   {
@@ -91,6 +98,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/134f9583-0d98-462f-a1ee-cb8c86202810.gif?ClientID=vimeo-core-prod&Date=1696391681&Signature=adb05b242e7950a7b4d7f5ef603d518075ce6890",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871761410?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912240/0043df2f50?share=copy",
   },
   {
@@ -104,6 +113,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/b1cab29c-6f1d-4a37-88a4-15f912410036.gif?ClientID=vimeo-core-prod&Date=1696391705&Signature=bafefc681df4ceb60273b60167983dc8a1a84d70",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871761576?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912268/d351073c30?share=copy",
   },
   {
@@ -117,6 +128,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/5aabcdfd-78bc-4a30-8903-4870028cd2b2.gif?ClientID=vimeo-core-prod&Date=1696391755&Signature=3627ed6305ef2cea3ecf5377e1b06c72fd099115",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871761964?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912304/dd01a703fe?share=copy",
   },
   {
@@ -130,6 +143,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c7f842c4-ff82-4f3e-b473-ee1daed08eee.gif?ClientID=vimeo-core-prod&Date=1696391776&Signature=3cf3f10b9b4d779128771920a232d540d0fb1434",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871762074?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912328/a930a71e1c?share=copy",
   },
   {
@@ -143,6 +158,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/6251fded-997d-439e-866a-7e131b40f2ca.gif?ClientID=vimeo-core-prod&Date=1696391823&Signature=afd7bb848928992c106316e8601ceccfec657ece",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871762340?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912361/ccf9656c28?share=copy",
   },
   {
@@ -160,6 +177,8 @@ export const eoMobilityData = [
       },
     ],
 
+    noAudioVideo:
+      "https://player.vimeo.com/video/871762499?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912390/101cddf8df?share=copy",
   },
   {
@@ -173,6 +192,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/16604bfb-d8b0-45a0-b95f-31cc27e69e27.gif?ClientID=vimeo-core-prod&Date=1696392400&Signature=5d4bb8eedd8a406ba664e77089c63a0150328870",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871763640?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912405/971e70892a?share=copy",
   },
   {
@@ -186,6 +207,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c8fd3f02-90e7-4f20-9ff4-719f2759766d.gif?ClientID=vimeo-core-prod&Date=1696392453&Signature=58d24e9577c5c8fc52bd1c4b56a1e714dba27638",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871764135?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912431/e491f03e13?share=copy",
   },
   {
@@ -200,6 +223,8 @@ export const eoMobilityData = [
       },
     ],
 
+    noAudioVideo:
+      "https://player.vimeo.com/video/871764582?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912484/7e9e9a268f?share=copy",
   },
   {
@@ -213,6 +238,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/ecb05181-4583-4df4-8b8d-fbb15c0977f5.gif?ClientID=vimeo-core-prod&Date=1696392516&Signature=56e5ce03a88c1e76b3c9597efcd3d597dcd94697",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871764696?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912527/807b4bf40a?share=copy",
   },
   {
@@ -226,6 +253,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/823fa7c7-60d7-4d6c-843f-c2dc65fd35af.gif?ClientID=vimeo-core-prod&Date=1696392633&Signature=86482cf4c86bc113482707fef5d1020584e8cc40",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871764899?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912559/d946be1cf4?share=copy",
   },
   {
@@ -242,6 +271,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e0c628c5-9726-44f6-8509-bdd126d7ecfc.gif?ClientID=vimeo-core-prod&Date=1696392666&Signature=89cef35e2a61a6b3c9cbd5966c5600b02acc2553",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871764999?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912585/b019135564?share=copy",
   },
   {
@@ -258,6 +289,8 @@ export const eoMobilityData = [
         url: "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/7c05ea93-9a0a-4269-a985-97938d1f516b.gif?ClientID=vimeo-core-prod&Date=1696392703&Signature=2f0951e99c81e8e034f5581a388146be21deff86",
       },
     ],
+    noAudioVideo:
+      "https://player.vimeo.com/video/871765180?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479",
     videoUrl: "https://vimeo.com/870912656/99a216cb50?share=copy",
   },
 ];
