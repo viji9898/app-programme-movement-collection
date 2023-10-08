@@ -1,7 +1,8 @@
-import { Card, Col, Divider, Row } from "antd";
+import { Button, Card, Col, Divider, Row, Space } from "antd";
 import { WorkOutTable } from "../workshop/workoutTable";
 import { WorkOutCard } from "../workshop/workoutCard";
 import { eoMobilityData } from "../workshopData/eoMobilityData";
+import { InstagramOutlined } from "@ant-design/icons";
 
 export const EoMobility = () => {
   return (
@@ -16,9 +17,31 @@ export const EoMobility = () => {
               <br></br>
               <br></br>
               <strong>{" How to use: "}</strong>
-              Follow the routine as laid out, excercise 1a to 1f are part of a
-              cicuirt and should be done one after the other same with 5a-5b and
-              6a-6b.
+              You can follow the order presented or pick and choose a routine
+              that suits your goals.
+              <br></br>
+              <br></br>
+              <b>{"Questions? reach out to us over Instagram: "}</b>
+              <Space>
+                <Button
+                  href="https://instagram.com/katherinesamuelson"
+                  target="_blank"
+                  rel="noreferrer"
+                  size="small"
+                >
+                  <InstagramOutlined style={{ verticalAlign: "baseline" }} />
+                  Katherine
+                </Button>
+                <Button
+                  href="https://www.instagram.com/jaxandtonic"
+                  target="_blank"
+                  rel="noreferrer"
+                  size="small"
+                >
+                  <InstagramOutlined style={{ verticalAlign: "baseline" }} />
+                  Jacqueline
+                </Button>
+              </Space>
             </p>
           </div>
           {/* <div>
